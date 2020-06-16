@@ -1,6 +1,5 @@
 #Claire To
 #10/29/2019
-#testHW1.py
 
 #Part1: Codons
 '''This function takes a string as its argument and return a list containing
